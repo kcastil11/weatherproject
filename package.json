@@ -1,0 +1,35 @@
+{
+  "name": "postal-rate-calculator",
+  "version": "0.2.6",
+  "description": "This is a rate calculator",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kcastil11/postal-rate-calculator.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/kcastil11/postal-rate-calculator.git"
+  },
+  "homepage": "https://github.com/kcastil11/postal-rate-calculator.git",
+  "author": "Kenny C"
+}
